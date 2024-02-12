@@ -1,7 +1,8 @@
 ## Load the VIIRS image collection
 var viirsCollection = ee.ImageCollection('NOAA/VIIRS/001/VNP46A2');
+
 ## Define the date range
-var startDate = '2022-01-01';
+var startDate = '202-01-01';
 var endDate = '2022-12-30';
 
 ## Define the coordinates for the pixel
