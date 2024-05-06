@@ -24,7 +24,7 @@ var viirsCollection_clipped = viirsCollection.map(function(image) {
   return image.clip(regionGeometry);
 });
 
-// Display the 1 date in the image collection
+// Display the 1st date in the image collection (ie startDate)
 // Click on the pixels with the inspector tool to see a time series
 Map.addLayer(viirsCollection_clipped, {min: 10, max: 150}, 'VIIRS Nighttime Lights - First Date');
 
