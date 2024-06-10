@@ -22,3 +22,19 @@ Min Brian et al. Light Every Night – New nighttime light data set and tools fo
 **Useable dataset and tutorial for further information:**
 
 World Bank - Light Every Night  https://registry.opendata.aws/wb-light-every-night/ 
+
+**Technical resource leaders**
+
+**Dipendra Bhattarai (Technical Lead)**
+
+Dipendra brings a decade of experience collaborating with grassroots organisations and leveraging remote sensing skills to address the challenges of sustainable development goals in data-scarce regions. His research focuses on artificial night-time lights, energy, and climate policy, utilising data to translate complex information into actionable insights through a blend of economic and spatial rigour.
+
+For more training related information, reach out at dipendra.bhattarai@utas.edu.au  or @bdipen over X (then twitter). 
+
+**Darcy Glenn** 
+
+Darcy Glenn has worked to bring climate science to local governments so they can make informed decisions. She was a research assistant on Woodwell Climate Research Centre’s Risk team, working on free climate risk assessments for local governments.
+
+**WiZelle Kritzinger** 
+
+WiZelle Kritzinger is a Master of Philosophy in Economics student at the University of Pretoria. She is interested in energy and environmental economics, with a keen focus on energy poverty, its causes and consequences. She is currently a research assistant for the University of Pretoria's Economic and Management Sciences Faculty Funded Transdisciplinary Project on Energy Poverty.
