@@ -17,7 +17,7 @@ Monroe, T. Big Data and Thriving Cities. https://elibrary.worldbank.org/doi/abs/
 
 **Blog**
 
-Min Brian et al. Light Every Night – New nighttime light data set and tools for development Link
+Min Brian et al. Light Every Night – New nighttime light data set and tools for development [Link](https://blogs.worldbank.org/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development) 
 
 **Useable dataset and tutorial for further information:**
 
