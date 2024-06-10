@@ -4,7 +4,7 @@ This page provides you with the theory of artificial night-time lights and also 
 
 **Reading Materials**
 
-Bhattarai, D., Lucieer, A., Lovell, H. and Aryal, J. 2023. Remote sensing of night‐time lights and electricity consumption: A systematic literature review and meta‐analysis. Geography Compass, 10.1111/gec3.12684. https://doi.org/.10.1111/gec3.12684  
+Bhattarai, D., Lucieer, A., Lovell, H. and Aryal, J. 2023. Remote sensing of night‐time lights and electricity consumption: A systematic literature review and meta‐analysis. Geography Compass, https://doi.org/.10.1111/gec3.12684  
 
 Bhattarai, D. and Lucieer, A. 2024. Random forest regression exploring contributing factors to artificial night-time lights observed in VIIRS satellite imagery. International Journal of Digital Earth, 17. https://doi.org/.10.1080/17538947.2024.2324941  
 
