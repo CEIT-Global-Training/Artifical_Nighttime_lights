@@ -2,7 +2,7 @@ Artificial Night-time Lights (ANTL) have been widely used in social science rese
 
 This page provides you with the theory of artificial night-time lights and also includes codes to extract data from Google Earth Engine.  
 
-Reading Materials
+**Reading Materials**
 
 Bhattarai, D., Lucieer, A., Lovell, H. and Aryal, J. 2023. Remote sensing of night‐time lights and electricity consumption: A systematic literature review and meta‐analysis. Geography Compass, 10.1111/gec3.12684. https://doi.org/.10.1111/gec3.12684  
 
@@ -15,10 +15,10 @@ Baragwanath, K., Goldblatt, R., Hanson, G. and Khandelwal, A. K. 2021. Detecting
 Monroe, T. Big Data and Thriving Cities. https://elibrary.worldbank.org/doi/abs/10.1596/26299  
 
 
-Blog
+**Blog**
 
 Min Brian et al. Light Every Night – New nighttime light data set and tools for development Link
 
-Useable dataset and tutorial for further information:
+**Useable dataset and tutorial for further information:**
 
 World Bank - Light Every Night  https://registry.opendata.aws/wb-light-every-night/ 
