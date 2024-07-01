@@ -56,4 +56,19 @@ print(chart);
 var viirsMean = viirsCollection_clipped.mean();
 Map.addLayer(viirsMean, {min: 0, max: 1}, 'VIIRS Nighttime Lights - Mean');
 
+// Example to visualize the first image in the collection
+var firstImage = ee.Image(viirsCollection_clipped.first());
+Map.centerObject(regionGeometry, 4); // Center the map on the first image
+Map.addLayer(firstImage, {min: 0.1, max: 3}, 'VIIRS First Image');
 
+// Convert the ImageCollection to a List
+var viirsList = viirsCollection_clipped.toList(viirsCollection_clipped.size());
+
+// Get the image from the List
+var viirsImage = ee.Image(viirsList.get(5)); // Get the first image (index 0)
+
+
+// Example to visualize the image in the collection
+var Imagecoll = ee.Image(viirsImage);
+Map.centerObject(regionGeometry, 4); // Center the map on the image
+Map.addLayer(Imagecoll, {min: 0.1, max: 3}, 'VIIRS 2018 Image');
